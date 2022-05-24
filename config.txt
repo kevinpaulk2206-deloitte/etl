@@ -1,0 +1,2 @@
+source=C:\Users\kpaulk\Documents\W4-MA1\salesdata.csv
+staged=C:\Users\kpaulk\Documents\W4-MA1\staged.csv
